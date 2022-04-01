@@ -1,0 +1,80 @@
+[
+  {
+    url: 'https://www.homedepot.com',
+    label: 'Home Depot',
+    iconName: 'homedepot',
+    img: require('https://ibookmarks.github.io/images/offline/homedepot.png'),
+  },
+  {
+    url: 'https://www.google.com',
+    label: 'Google',
+    iconName: 'google',
+    img: require('https://ibookmarks.github.io/images/offline/google.png'),
+  },
+  {
+    url: 'https://www.flipkart.com',
+    label: 'Flipkart',
+    iconName: 'flipkart',
+    img: require('https://ibookmarks.github.io/images/offline/flipkart.png'),
+  },
+  {
+    url: 'https://www.facebook.com',
+    label: 'Facebook',
+    iconName: 'facebook',
+    img: require('https://ibookmarks.github.io/images/offline/facebook.png'),
+  },
+  {
+    url: 'https://www.instagram.com',
+    label: 'Instagram',
+    iconName: 'instagram',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+  {
+    url: 'https://www.youtube.com',
+    label: 'Youtube',
+    iconName: 'youtube',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+  {
+    url: 'https://www.twitter.com',
+    label: 'Twitter',
+    iconName: 'twitter',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+  {
+    url: 'https://www.amazon.in',
+    label: 'Amazon India',
+    iconName: 'amazon',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+  {
+    url: 'https://www.amazon.com',
+    label: 'Amazon USA',
+    iconName: 'amazon',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+  {
+    url: 'https://www.wikipedia.org',
+    label: 'Wikipedia',
+    iconName: 'wikipedia',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+  {
+    url: 'https://www.hotstar.com',
+    label: 'Hotstar',
+    iconName: 'hotstar',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+  {
+    url: 'https://www.quora.com',
+    label: 'Quora',
+    iconName: 'quora',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+  {
+    url: 'https://www.cricbuzz.com',
+    label: 'Cric Buzz',
+    iconName: 'cricbuzz',
+    img: require('https://ibookmarks.github.io/images/offline/instagram.png'),
+  },
+]
