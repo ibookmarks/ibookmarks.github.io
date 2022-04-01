@@ -1,82 +1,82 @@
 {
-  data: [
+  "data": [
   {
-    url: 'https://www.homedepot.com',
-    label: 'Home Depot',
-    iconName: 'homedepot',
-    img: 'https://ibookmarks.github.io/images/homedepot.png',
+    "url": "https://www.homedepot.com",
+    "label": "Home Depot",
+    "iconName": "homedepot",
+    "img": "https://ibookmarks.github.io/images/homedepot.png"
   },
   {
-    url: 'https://www.google.com',
-    label: 'Google',
-    iconName: 'google',
-    img: 'https://ibookmarks.github.io/images/google.png',
+    "url": "https://www.google.com",
+    "label": "Google",
+    "iconName": "google",
+    "img": "https://ibookmarks.github.io/images/google.png"
   },
   {
-    url: 'https://www.flipkart.com',
-    label: 'Flipkart',
-    iconName: 'flipkart',
-    img: 'https://ibookmarks.github.io/images/flipkart.png',
+    "url": "https://www.flipkart.com",
+    "label": "Flipkart",
+    "iconName": "flipkart",
+    "img": "https://ibookmarks.github.io/images/flipkart.png"
   },
   {
-    url: 'https://www.facebook.com',
-    label: 'Facebook',
-    iconName: 'facebook',
-    img: 'https://ibookmarks.github.io/images/facebook.png',
+    "url": "https://www.facebook.com",
+    "label": "Facebook",
+    "iconName": "facebook",
+    "img": "https://ibookmarks.github.io/images/facebook.png"
   },
   {
-    url: 'https://www.instagram.com',
-    label: 'Instagram',
-    iconName: 'instagram',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
+    "url": "https://www.instagram.com",
+    "label": "Instagram",
+    "iconName": "instagram",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   },
   {
-    url: 'https://www.youtube.com',
-    label: 'Youtube',
-    iconName: 'youtube',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
+    "url": "https://www.youtube.com",
+    "label": "Youtube",
+    "iconName": "youtube",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   },
   {
-    url: 'https://www.twitter.com',
-    label: 'Twitter',
-    iconName: 'twitter',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
+    "url": "https://www.twitter.com",
+    "label": "Twitter",
+    "iconName": "twitter",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   },
   {
-    url: 'https://www.amazon.in',
-    label: 'Amazon India',
-    iconName: 'amazon',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
+    "url": "https://www.amazon.in",
+    "label": "Amazon India",
+    "iconName": "amazon",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   },
   {
-    url: 'https://www.amazon.com',
-    label: 'Amazon USA',
-    iconName: 'amazon',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
+    "url": "https://www.amazon.com",
+    "label": "Amazon USA",
+    "iconName": "amazon",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   },
   {
-    url: 'https://www.wikipedia.org',
-    label: 'Wikipedia',
-    iconName: 'wikipedia',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
+    "url": "https://www.wikipedia.org",
+    "label": "Wikipedia",
+    "iconName": "wikipedia",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   },
   {
-    url: 'https://www.hotstar.com',
-    label: 'Hotstar',
-    iconName: 'hotstar',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
+    "url": "https://www.hotstar.com",
+    "label": "Hotstar",
+    "iconName": "hotstar",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   },
   {
-    url: 'https://www.quora.com',
-    label: 'Quora',
-    iconName: 'quora',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
+    "url": "https://www.quora.com",
+    "label": "Quora",
+    "iconName": "quora",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   },
   {
-    url: 'https://www.cricbuzz.com',
-    label: 'Cric Buzz',
-    iconName: 'cricbuzz',
-    img: 'https://ibookmarks.github.io/images/instagram.png',
-  },
+    "url": "https://www.cricbuzz.com",
+    "label": "Cric Buzz",
+    "iconName": "cricbuzz",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
+  }
 ]
 }
