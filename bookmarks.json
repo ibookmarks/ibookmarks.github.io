@@ -83,6 +83,12 @@
     "label": "Git hub",
     "iconName": "github",
     "img": "https://ibookmarks.github.io/images/instagram.png"
+  },
+    {
+    "url": "https://jsoneditoronline.org",
+    "label": "JSON Editor",
+    "iconName": "json editor",
+    "img": "https://ibookmarks.github.io/images/instagram.png"
   }
 ]
 }
