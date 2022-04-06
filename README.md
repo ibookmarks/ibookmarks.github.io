@@ -1,3 +1,1 @@
-# ibookmarks.github.io
-
-https://ibookmarks.github.io
+https://ibookmarks.github.io/index.html
