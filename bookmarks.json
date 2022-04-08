@@ -34,61 +34,61 @@
     "url": "https://www.youtube.com",
     "label": "Youtube",
     "iconName": "youtube",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/youtube.png"
   },
   {
     "url": "https://www.twitter.com",
     "label": "Twitter",
     "iconName": "twitter",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/twitter.png"
   },
   {
     "url": "https://www.amazon.in",
     "label": "Amazon India",
     "iconName": "amazon",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/amazon.png"
   },
   {
     "url": "https://www.amazon.com",
     "label": "Amazon USA",
     "iconName": "amazon",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/amazon-usa.png"
   },
   {
     "url": "https://www.wikipedia.org",
     "label": "Wikipedia",
     "iconName": "wikipedia",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/wikipedia.png"
   },
   {
     "url": "https://www.hotstar.com",
     "label": "Hotstar",
     "iconName": "hotstar",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/hotstar.png"
   },
   {
     "url": "https://www.quora.com",
     "label": "Quora",
     "iconName": "quora",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/quora.png"
   },
   {
     "url": "https://www.cricbuzz.com",
     "label": "Cric Buzz",
     "iconName": "cricbuzz",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/cric_buzz.png"
   },
     {
     "url": "https://www.github.com",
     "label": "Git hub",
     "iconName": "github",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/github.png"
   },
     {
     "url": "https://jsoneditoronline.org",
     "label": "JSON Editor",
     "iconName": "json editor",
-    "img": "https://ibookmarks.github.io/images/instagram.png"
+    "img": "https://ibookmarks.github.io/images/jsoneditoronline.png"
   }
 ]
 }
