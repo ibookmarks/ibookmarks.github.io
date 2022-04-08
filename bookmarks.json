@@ -76,7 +76,7 @@
     "url": "https://www.cricbuzz.com",
     "label": "Cric Buzz",
     "iconName": "cricbuzz",
-    "img": "https://ibookmarks.github.io/images/cric_buzz.png"
+    "img": "https://ibookmarks.github.io/images/cric-buzz.png"
   },
     {
     "url": "https://www.github.com",
@@ -88,7 +88,7 @@
     "url": "https://jsoneditoronline.org",
     "label": "JSON Editor",
     "iconName": "json editor",
-    "img": "https://ibookmarks.github.io/images/jsoneditoronline.png"
+    "img": "https://ibookmarks.github.io/images/json-editor.png"
   }
 ]
 }
